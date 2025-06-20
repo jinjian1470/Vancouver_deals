@@ -1,0 +1,11 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+
+# Host
+Host: https://vancouver-deals.com
+
+# Sitemaps
+Sitemap: https://vancouver-deals.com/sitemap.xml

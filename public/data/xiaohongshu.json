@@ -1,0 +1,85 @@
+[
+  {
+    "id": 1,
+    "type": "experience",
+    "title": "Granville Island美食体验",
+    "content": "Granville Island的市场真的太棒了！新鲜的海鲜、手工面包和各种本地小吃，随便逛逛都能发现惊喜。推荐一定要试试那里的龙虾卷和手工冰淇淋，超级治愈！",
+    "user": "小红薯_美食控",
+    "date": "2024-06-10",
+    "tags": ["美食", "市场", "本地体验"],
+    "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400"
+  },
+  {
+    "id": 2,
+    "type": "experience",
+    "title": "Stanley Park骑行",
+    "content": "租辆自行车环Stanley Park一圈，沿途风景美到爆炸！湖边、森林、海滩、还有可爱的松鼠。建议傍晚去，夕阳下的海岸线真的很浪漫。",
+    "user": "小红薯_骑行少女",
+    "date": "2024-06-12",
+    "tags": ["骑行", "公园", "自然"],
+    "image": "https://images.unsplash.com/photo-1544191696-102dbdaeeaa5?w=400"
+  },
+  {
+    "id": 3,
+    "type": "experience",
+    "title": "Capilano吊桥冒险",
+    "content": "第一次走Capilano吊桥，真的有点小刺激！桥下是湍急的河流，桥上风景超美，树顶步道也很有趣，适合带小朋友一起体验。",
+    "user": "小红薯_冒险家",
+    "date": "2024-06-15",
+    "tags": ["景点", "冒险", "亲子"],
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400"
+  },
+  {
+    "id": 4,
+    "type": "life",
+    "title": "温哥华咖啡馆打卡",
+    "content": "温哥华的咖啡馆氛围太棒了，推荐Revolver和49th Parallel。无论是学习还是和朋友聊天都很舒服，咖啡豆也可以带回家。",
+    "user": "小红薯_咖啡控",
+    "date": "2024-06-08",
+    "tags": ["咖啡馆", "生活", "打卡"],
+    "image": "https://images.unsplash.com/photo-1511920170033-f8396924c348?w=400"
+  },
+  {
+    "id": 5,
+    "type": "life",
+    "title": "本地农夫市集",
+    "content": "每周末的农夫市集是我的最爱，新鲜蔬果、手工蜂蜜、还有本地艺术家的小物件，逛一圈收获满满。",
+    "user": "小红薯_慢生活",
+    "date": "2024-06-09",
+    "tags": ["市集", "本地生活", "手工艺"],
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=400"
+  },
+  {
+    "id": 6,
+    "type": "deal",
+    "title": "温哥华水族馆门票8折",
+    "content": "温哥华水族馆官网最近有8折门票活动，学生证还能再减5刀，记得提前在官网预约！",
+    "merchant": "温哥华水族馆",
+    "discount": "20%",
+    "validUntil": "2024-08-31",
+    "tags": ["景点", "门票", "学生优惠"],
+    "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 7,
+    "type": "deal",
+    "title": "Granville Island餐厅团购",
+    "content": "Granville Island的某某餐厅在团购平台有套餐优惠，两人餐只要$39，性价比超高！",
+    "merchant": "Granville Island 餐厅",
+    "discount": "套餐特价",
+    "validUntil": "2024-07-15",
+    "tags": ["美食", "团购", "餐厅"],
+    "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400"
+  },
+  {
+    "id": 8,
+    "type": "deal",
+    "title": "Metrotown购物中心夏季大促",
+    "content": "Metrotown最近有夏季大促，部分品牌低至5折，建议平日去人少还能慢慢逛。",
+    "merchant": "Metrotown",
+    "discount": "50%",
+    "validUntil": "2024-07-31",
+    "tags": ["购物", "打折", "品牌"],
+    "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=400"
+  }
+]
